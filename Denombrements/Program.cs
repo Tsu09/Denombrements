@@ -11,6 +11,7 @@ namespace Denombrements
         static void Main(string[] args)
         {
             int c = 1;
+            // donc ceci est un test
             while (c != 0)
             {
                 Console.WriteLine("Permutation ...................... 1");
